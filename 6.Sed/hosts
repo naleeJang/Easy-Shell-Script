@@ -1,0 +1,20 @@
+# This is Sed Sample File
+# We will test to replace from a-text to b-text.
+# It was created by NaleeJang.
+
+127.0.0.1   localhost
+
+# Development
+192.168.100.250 git.example.com
+192.168.100.10  servera.example.com
+192.168.100.11  dev.example.com
+
+# Test
+
+172.10.2.12 test1.example.com
+172.10.2.13 test2.example.com
+
+# Production
+122.10.10.31 service.example.com
+122.10.10.32 service1.example.com
+122.10.10.33 service2.example.com

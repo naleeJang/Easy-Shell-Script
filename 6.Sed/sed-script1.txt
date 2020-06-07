@@ -1,0 +1,7 @@
+/# Test/,+3 {
+# if input line is empty, doesn’t execute replacing
+/^$/ b label1
+s/[tT]est/dev/
+: label1
+p
+}

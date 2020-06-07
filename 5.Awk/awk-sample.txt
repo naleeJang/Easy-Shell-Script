@@ -1,0 +1,12 @@
+-rw-rw----.  1   nalee nalee  65942 05-15 16:49 aa.txt
+-rw-------.  1   nalee nalee     40 05-22 16:34 amin.txt
+-rw-rw----.  1   nalee nalee  65942 05-15 16:49 bb.txt
+-rw-rw-r--.  1   nalee nalee    750 05-13 14:40 expression.tar.gz
+-rw-------.  1   nalee nalee    717 05-21 12:26 expression.txt
+drwxrwxr-x.  2   nalee nalee     87 05-20 17:09 File
+-rw-rw-r--.  1   test   test      0 05-22 14:28 findtestfile
+-rwxr-xr-x.  1   nalee nalee 159024 05-13 20:31 grep-test
+drwxrwxr-x.  2   nalee nalee     86 05-21 13:07 pattern
+-rw-r--r--.  1   root   root      0 05-24 11:52 rootfile
+-rw-rw-rw-.  1   nalee nalee     60 05-21 12:27 Separator.txt
+-r--r--r--.  1   nalee nalee    721 05-19 11:14 test.txt
