@@ -1,0 +1,28 @@
+====================
+ Regular Expression
+====================
+  
+#===========================================#
+# Date: 2020-05-05
+# Author: NaleeJang
+# Description: regular expression test file
+#===========================================#
+
+
+Today is 05-May-2020.
+Current time is 6:04PM.
+This is an example file for testing regular expressions.	This example file includes control characters.
+
+# System Information
+CPU model is Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz
+Memory size is 32GiB
+Disk is 512 GB
+IP Address is 192.168.35.7
+
+# Help
+Do you have any questions? or Do you need any help?
+If you have any questions, Please send a mail to the email below.
+
+# Contacts
+e-mail: nalee999@gmail.com
+phone: 010-2222-5668
