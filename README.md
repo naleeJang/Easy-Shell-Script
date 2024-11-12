@@ -4,6 +4,7 @@ Welcome to Easy Shell Script Examples
 "처음 배우는 셸 스크립트"의 저자 장현정입니다.
 
 본 GitHub Repository에서는 책에서 사용된 셸 스크립트의 예제를 다운로드 받을 수 있습니다.
+![XL](https://github.com/user-attachments/assets/fe40e414-43f4-4e3d-a3ac-68da62a27dc5)
 
 How to Download Shell Script Examples
 =====================================
