@@ -5,7 +5,7 @@ Welcome to Easy Shell Script Examples
 
 본 GitHub Repository에서는 책에서 사용된 셸 스크립트의 예제를 다운로드 받을 수 있습니다.
 
-![M](https://github.com/user-attachments/assets/fe40e414-43f4-4e3d-a3ac-68da62a27dc5)
+![book](https://github.com/user-attachments/assets/7f29ecfb-406e-4d2d-919c-fd7eefbaff78)
 
 How to Download Shell Script Examples
 =====================================
